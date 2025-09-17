@@ -3,5 +3,5 @@
 * Modified to fix the Tree.RowHeight issue, which caused an extremely compact directory view.
 * So many deprecated fields unsolved in the theme.json ...
 
-> [!TODO]
+> [!NOTE]
 > * Unsolved Color Schema adapted for Java
